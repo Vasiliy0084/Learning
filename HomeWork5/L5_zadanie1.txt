@@ -1,0 +1,3 @@
+his is 1 str for first task
+his is 2 str for first task
+his is 3 str for first task
